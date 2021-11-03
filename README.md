@@ -1,5 +1,5 @@
 # Glad you got here!
-I'm Cainan a 18-year-old, CS student at UTFPR (BR).
+I'm Cainan a 18-year-old, CS student at UTFPR - Ponta Grossa(PR).
 
 <div align="center">
   <a href="https://github.com/travizanutto">
